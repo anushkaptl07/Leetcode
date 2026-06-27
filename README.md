@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anushkaptl07/Leetcode/tree/master/0016-3sum-closest) |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
