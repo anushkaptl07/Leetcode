@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anushkaptl07/Leetcode/tree/master/0016-3sum-closest) |
+| [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
