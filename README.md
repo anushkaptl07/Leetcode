@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushkaptl07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -161,5 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
