@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/anushkaptl07/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaptl07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/anushkaptl07/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaptl07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/anushkaptl07/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/anushkaptl07/Leetcode/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaptl07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/anushkaptl07/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/anushkaptl07/Leetcode/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
