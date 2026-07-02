@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaptl07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaptl07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkaptl07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/anushkaptl07/Leetcode/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkaptl07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/anushkaptl07/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/anushkaptl07/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
