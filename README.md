@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/anushkaptl07/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anushkaptl07/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Linked List
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushkaptl07/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anushkaptl07/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -173,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/anushkaptl07/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anushkaptl07/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anushkaptl07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anushkaptl07/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anushkaptl07/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
