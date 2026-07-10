@@ -230,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushkaptl07/Leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/anushkaptl07/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
