@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/anushkaptl07/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anushkaptl07/Leetcode/tree/master/0016-3sum-closest) |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/anushkaptl07/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting Sort
 |  |
