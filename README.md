@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anushkaptl07/Leetcode/tree/master/0016-3sum-closest) |
 | [0130-surrounded-regions](https://github.com/anushkaptl07/Leetcode/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/anushkaptl07/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushkaptl07/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/anushkaptl07/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/anushkaptl07/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Topological Sort
