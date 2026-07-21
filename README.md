@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkaptl07/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/anushkaptl07/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1791-find-center-of-star-graph](https://github.com/anushkaptl07/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkaptl07/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
