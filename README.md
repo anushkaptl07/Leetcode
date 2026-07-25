@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/anushkaptl07/Leetcode/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/anushkaptl07/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anushkaptl07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/anushkaptl07/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/anushkaptl07/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/anushkaptl07/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
