@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushkaptl07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anushkaptl07/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/anushkaptl07/Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anushkaptl07/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anushkaptl07/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/anushkaptl07/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/anushkaptl07/Leetcode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Topological Sort
 |  |
@@ -321,5 +323,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anushkaptl07/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/anushkaptl07/Leetcode/tree/master/1025-divisor-game) |
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anushkaptl07/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anushkaptl07/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
