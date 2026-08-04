@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushkaptl07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkaptl07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkaptl07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushkaptl07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkaptl07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkaptl07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkaptl07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
