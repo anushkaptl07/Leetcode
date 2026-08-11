@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkaptl07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkaptl07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anushkaptl07/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkaptl07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anushkaptl07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
