@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/anushkaptl07/Leetcode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/anushkaptl07/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anushkaptl07/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0595-big-countries](https://github.com/anushkaptl07/Leetcode/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/anushkaptl07/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/anushkaptl07/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/anushkaptl07/Leetcode/tree/master/1179-reformat-department-table) |
