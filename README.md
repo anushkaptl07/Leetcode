@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anushkaptl07/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushkaptl07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/anushkaptl07/Leetcode/tree/master/0401-binary-watch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkaptl07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/anushkaptl07/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/anushkaptl07/Leetcode/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
