@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/anushkaptl07/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3033-modify-the-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkaptl07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/anushkaptl07/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/anushkaptl07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3033-modify-the-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/3033-modify-the-matrix) |
 ## Backtracking
 |  |
 | ------- |
