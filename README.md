@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/anushkaptl07/Leetcode/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/anushkaptl07/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkaptl07/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushkaptl07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anushkaptl07/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkaptl07/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/anushkaptl07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anushkaptl07/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/anushkaptl07/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anushkaptl07/Leetcode/tree/master/0706-design-hashmap) |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkaptl07/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/anushkaptl07/Leetcode/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkaptl07/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
