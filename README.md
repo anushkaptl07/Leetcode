@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/anushkaptl07/Leetcode/tree/master/0401-binary-watch) |
+| [1386-cinema-seat-allocation](https://github.com/anushkaptl07/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkaptl07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anushkaptl07/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/anushkaptl07/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkaptl07/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkaptl07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/anushkaptl07/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anushkaptl07/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/anushkaptl07/Leetcode/tree/master/2029-stone-game-ix) |
