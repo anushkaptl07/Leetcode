@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/anushkaptl07/Leetcode/tree/master/1393-capital-gainloss) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anushkaptl07/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anushkaptl07/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/anushkaptl07/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
