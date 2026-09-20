@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/anushkaptl07/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/anushkaptl07/Leetcode/tree/master/1179-reformat-department-table) |
 | [1393-capital-gainloss](https://github.com/anushkaptl07/Leetcode/tree/master/1393-capital-gainloss) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/anushkaptl07/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anushkaptl07/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
 |  |
