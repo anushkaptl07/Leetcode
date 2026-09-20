@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkaptl07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushkaptl07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/anushkaptl07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkaptl07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/anushkaptl07/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anushkaptl07/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/anushkaptl07/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/anushkaptl07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/anushkaptl07/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anushkaptl07/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Binary Search
