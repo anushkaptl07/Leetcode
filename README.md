@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anushkaptl07/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/anushkaptl07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0384-shuffle-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0542-01-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/anushkaptl07/Leetcode/tree/master/0705-design-hashset) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anushkaptl07/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/anushkaptl07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anushkaptl07/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0384-shuffle-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0509-fibonacci-number](https://github.com/anushkaptl07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anushkaptl07/Leetcode/tree/master/0877-stone-game) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0705-design-hashset](https://github.com/anushkaptl07/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anushkaptl07/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anushkaptl07/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
