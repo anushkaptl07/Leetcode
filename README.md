@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anushkaptl07/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/anushkaptl07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/anushkaptl07/Leetcode/tree/master/0400-nth-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushkaptl07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anushkaptl07/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0384-shuffle-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0400-nth-digit](https://github.com/anushkaptl07/Leetcode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/anushkaptl07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anushkaptl07/Leetcode/tree/master/0877-stone-game) |
