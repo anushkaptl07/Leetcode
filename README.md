@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anushkaptl07/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anushkaptl07/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/anushkaptl07/Leetcode/tree/master/1965-employees-with-missing-information) |
+| [3220-odd-and-even-transactions](https://github.com/anushkaptl07/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
