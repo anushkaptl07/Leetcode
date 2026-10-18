@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/anushkaptl07/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/anushkaptl07/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [3220-odd-and-even-transactions](https://github.com/anushkaptl07/Leetcode/tree/master/3220-odd-and-even-transactions) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/anushkaptl07/Leetcode/tree/master/3475-dna-pattern-recognition) |
 ## Heap (Priority Queue)
 |  |
