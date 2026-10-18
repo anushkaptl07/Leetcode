@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-odd-and-even-transactions](https://github.com/anushkaptl07/Leetcode/tree/master/3220-odd-and-even-transactions) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/anushkaptl07/Leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3570-find-books-with-no-available-copies](https://github.com/anushkaptl07/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
