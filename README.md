@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkaptl07/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/anushkaptl07/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0993-cousins-in-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkaptl07/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/anushkaptl07/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anushkaptl07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anushkaptl07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkaptl07/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/anushkaptl07/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0993-cousins-in-binary-tree](https://github.com/anushkaptl07/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anushkaptl07/Leetcode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkaptl07/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/anushkaptl07/Leetcode/tree/master/3310-remove-methods-from-project) |
