@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkaptl07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushkaptl07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushkaptl07/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anushkaptl07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkaptl07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/anushkaptl07/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushkaptl07/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushkaptl07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushkaptl07/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anushkaptl07/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anushkaptl07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/anushkaptl07/Leetcode/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushkaptl07/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkaptl07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search Tree
 |  |
