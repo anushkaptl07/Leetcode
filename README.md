@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anushkaptl07/Leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anushkaptl07/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/anushkaptl07/Leetcode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/anushkaptl07/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/anushkaptl07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anushkaptl07/Leetcode/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/anushkaptl07/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/anushkaptl07/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushkaptl07/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkaptl07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anushkaptl07/Leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/anushkaptl07/Leetcode/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/anushkaptl07/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anushkaptl07/Leetcode/tree/master/0706-design-hashmap) |
