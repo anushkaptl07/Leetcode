@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anushkaptl07/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-alternating-groups-i](https://github.com/anushkaptl07/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3248-snake-in-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/3248-snake-in-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anushkaptl07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anushkaptl07/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkaptl07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anushkaptl07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anushkaptl07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anushkaptl07/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushkaptl07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/anushkaptl07/Leetcode/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anushkaptl07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
