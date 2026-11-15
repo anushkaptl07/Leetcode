@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anushkaptl07/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/anushkaptl07/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anushkaptl07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/anushkaptl07/Leetcode/tree/master/3945-digit-frequency-score) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anushkaptl07/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Prefix Sum
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/anushkaptl07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/anushkaptl07/Leetcode/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/anushkaptl07/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting Sort
 |  |
 | ------- |
