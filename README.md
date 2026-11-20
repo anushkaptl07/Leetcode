@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/anushkaptl07/Leetcode/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/anushkaptl07/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/anushkaptl07/Leetcode/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkaptl07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushkaptl07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushkaptl07/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkaptl07/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anushkaptl07/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2418-sort-the-people](https://github.com/anushkaptl07/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/anushkaptl07/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anushkaptl07/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anushkaptl07/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/anushkaptl07/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/anushkaptl07/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anushkaptl07/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkaptl07/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anushkaptl07/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2418-sort-the-people](https://github.com/anushkaptl07/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/anushkaptl07/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/anushkaptl07/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushkaptl07/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
