@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anushkaptl07/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/anushkaptl07/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/anushkaptl07/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/anushkaptl07/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkaptl07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/anushkaptl07/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushkaptl07/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anushkaptl07/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/anushkaptl07/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/anushkaptl07/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkaptl07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkaptl07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anushkaptl07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/anushkaptl07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/anushkaptl07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/anushkaptl07/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3033-modify-the-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anushkaptl07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anushkaptl07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
