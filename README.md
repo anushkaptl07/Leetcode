@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anushkaptl07/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3861-minimum-capacity-box](https://github.com/anushkaptl07/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anushkaptl07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anushkaptl07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/anushkaptl07/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkaptl07/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/anushkaptl07/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anushkaptl07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/anushkaptl07/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3033-modify-the-matrix](https://github.com/anushkaptl07/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anushkaptl07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anushkaptl07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
