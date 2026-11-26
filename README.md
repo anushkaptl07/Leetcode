@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/anushkaptl07/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anushkaptl07/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anushkaptl07/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3853-merge-close-characters](https://github.com/anushkaptl07/Leetcode/tree/master/3853-merge-close-characters) |
 | [3941-password-strength](https://github.com/anushkaptl07/Leetcode/tree/master/3941-password-strength) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anushkaptl07/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Simulation
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/anushkaptl07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/anushkaptl07/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anushkaptl07/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3853-merge-close-characters](https://github.com/anushkaptl07/Leetcode/tree/master/3853-merge-close-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anushkaptl07/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anushkaptl07/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anushkaptl07/Leetcode/tree/master/3731-find-missing-elements) |
+| [3853-merge-close-characters](https://github.com/anushkaptl07/Leetcode/tree/master/3853-merge-close-characters) |
 | [3941-password-strength](https://github.com/anushkaptl07/Leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/anushkaptl07/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting Sort
