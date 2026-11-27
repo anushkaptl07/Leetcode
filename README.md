@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/anushkaptl07/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1686-stone-game-vi](https://github.com/anushkaptl07/Leetcode/tree/master/1686-stone-game-vi) |
+| [1695-maximum-erasure-value](https://github.com/anushkaptl07/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/anushkaptl07/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkaptl07/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushkaptl07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/anushkaptl07/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anushkaptl07/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/anushkaptl07/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/anushkaptl07/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anushkaptl07/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anushkaptl07/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkaptl07/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushkaptl07/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-erasure-value](https://github.com/anushkaptl07/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushkaptl07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/anushkaptl07/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anushkaptl07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
